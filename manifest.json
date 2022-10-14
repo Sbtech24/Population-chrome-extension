@@ -1,0 +1,11 @@
+{
+    "name" : "Population report",
+    "version" : "1.00",
+    "description": "Extension showing countries and their population",
+    "manifest_version": 3,
+    "author": "Bajomo oluwasemilore",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Population report"
+    }
+}
